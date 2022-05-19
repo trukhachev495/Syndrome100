@@ -1,6 +1,5 @@
 package ru.netology.statistic;
 public class StatisticsService {
-    public class statisticsService {
         /**
          * Calculate index of max income
          *
@@ -16,4 +15,3 @@ public class StatisticsService {
             return current_max;
         }
     }
-}
